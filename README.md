@@ -1,16 +1,21 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img alt="Hi, I'm Wenjun Pu." src="./assets/header-light.svg" width="100%" />
+</picture>
 
-<!--
-**fumitoshi0524/fumitoshi0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things, following curious ideas, and figuring out how they work.
 
-Here are some ideas to get you started:
+Usually somewhere between a small experiment and one more iteration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### A year in motion
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fumitoshi0524/fumitoshi0524/main/assets/github-snake-dark.svg" />
+  <img alt="A snake moving through my GitHub contribution calendar." src="https://raw.githubusercontent.com/fumitoshi0524/fumitoshi0524/main/assets/github-snake.svg" width="100%" />
+</picture>
+
+<br />
+
+<img alt="" src="./assets/footer.svg" width="100%" />
